@@ -1,7 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Marco\\source\\repos\\FiscalNet\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3EAFF690-6AA3-4151-BD53-B23E91628008}|FiscalNet\\FiscalNet.csproj|c:\\users\\marco\\source\\repos\\fiscalnet\\fiscalnet\\fiscalnet.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{3EAFF690-6AA3-4151-BD53-B23E91628008}|FiscalNet\\FiscalNet.csproj|solutionrelative:fiscalnet\\fiscalnet.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 224,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 19,
           "Children": [
             {
               "$type": "Bookmark",
@@ -82,6 +87,21 @@
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FiscalNet",
+              "DocumentMoniker": "C:\\Users\\Marco\\source\\repos\\FiscalNet\\FiscalNet\\FiscalNet.csproj",
+              "RelativeDocumentMoniker": "FiscalNet\\FiscalNet.csproj",
+              "ToolTip": "C:\\Users\\Marco\\source\\repos\\FiscalNet\\FiscalNet\\FiscalNet.csproj",
+              "RelativeToolTip": "FiscalNet\\FiscalNet.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-24T14:36:38.024Z"
             }
           ]
         },
@@ -96,7 +116,7 @@
           ]
         },
         {
-          "DockedWidth": 51,
+          "DockedWidth": 99,
           "SelectedChildIndex": -1,
           "Children": [
             {
